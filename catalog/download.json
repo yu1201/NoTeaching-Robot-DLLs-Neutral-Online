@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": "neutral-online",
+  "distributionTag": "dev-20260917",
+  "stage": "development-candidate",
+  "companyReleaseApproved": false,
+  "assets": [
+    {
+      "name": "CANDIDATE-neutral-online-2026.09.14.0945-windows-x64.zip",
+      "size": 141577376,
+      "sha256": "c6e5b10dd5bff7b1218ce653d11a19d798984250aa28f73372c8c4ddd8904d12"
+    },
+    {
+      "name": "SDK-import-pairs-neutral-online-20260917-windows-x64.zip",
+      "size": 350659,
+      "sha256": "7b93f74947203295a6c2044a0d502214f26a0f905f7e1354771ea6835d8666fa"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 246,
+      "sha256": "53f178b85b13169329978c61d20c8442193182088b0b7d77806083128f89b689"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "channel": "neutral-online",
+  "sourceCodeIncluded": false,
+  "businessModulesExtracted": false,
+  "distributionStage": "development-candidate",
+  "productReleaseApproved": false,
+  "authorization": "现有在线授权，Enforce"
+}

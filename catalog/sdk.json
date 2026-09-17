@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "packageKind": "existing-sdk-import-libraries",
+  "channel": "neutral-online",
+  "bundleId": "20260917",
+  "platform": "windows-x64",
+  "status": "development-candidate",
+  "source": {
+    "branch": "main",
+    "commit": "c8b649a9afab1be4284d2a1e78e4fbaf08d04372",
+    "dirty": true,
+    "provenance": "Existing SDK artifacts selected from this workspace; not rebuilt from source HEAD"
+  },
+  "sdkSemanticVersion": null,
+  "newBusinessModuleSplit": false,
+  "sdkAuthorizationLogicChanged": false,
+  "sdkEnvelopeProtectionAdded": false,
+  "sourceCodeIncluded": false,
+  "publicHeadersIncluded": false,
+  "completeRuntimeIncluded": false,
+  "companyReleaseApproved": false,
+  "formalReleaseReady": false,
+  "redistributionRightsVerified": false,
+  "contentScanPassed": true,
+  "binaryPathReviewCount": 2,
+  "verification": {
+    "dumpbinSha256": "e8762573db697429a71ed224334a5d1843c850393c5fc4b7b7d9ef33e8d16e7c",
+    "scannerSha256": "63958d5bf547c9038357fcc0594d150cbb69d458a2d6457b10d5709bb2641bc6"
+  },
+  "modules": [
+    {
+      "dllTarget": "PointCloudExtration.dll",
+      "architecture": "x64",
+      "importLibraryKind": "COFF import library",
+      "importSymbols": 4,
+      "namedExports": 4,
+      "matchedImportSymbols": 4,
+      "missingImportSymbols": 0,
+      "importSymbolSetSha256": "826851d8b9ddef52dde4658964bc40c146bf1662d481d46352aa354a5e1ffe1e",
+      "evidenceTool": "Microsoft dumpbin /headers and /exports",
+      "pairVerified": true,
+      "module": "PointCloudExtration",
+      "sdkSemanticVersion": null,
+      "dllFileVersion": null,
+      "dll": "PointCloudExtration/bin/PointCloudExtration.dll",
+      "importLibrary": "PointCloudExtration/lib/PointCloudExtration.lib",
+      "sourceArtifacts": {
+        "dll": "SDK/PointCloudExtration/PointCloudExtration.dll",
+        "importLibrary": "SDK/PointCloudExtration/PointCloudExtration.lib"
+      }
+    },
+    {
+      "dllTarget": "SKJCamera.dll",
+      "architecture": "x64",
+      "importLibraryKind": "COFF import library",
+      "importSymbols": 65,
+      "namedExports": 65,
+      "matchedImportSymbols": 65,
+      "missingImportSymbols": 0,
+      "importSymbolSetSha256": "ab2a52ac040efe350db0ac4f6f4d1e5ded18e865b47f1595b72154f1a5a9d8cb",
+      "evidenceTool": "Microsoft dumpbin /headers and /exports",
+      "pairVerified": true,
+      "module": "SKJCamera",
+      "sdkSemanticVersion": null,
+      "dllFileVersion": "1.2.0.0",
+      "dll": "SKJCamera/bin/SKJCamera.dll",
+      "importLibrary": "SKJCamera/lib/SKJCamera.lib",
+      "sourceArtifacts": {
+        "dll": "SDK/SKJCamera/bin/x64/Release/SKJCamera.dll",
+        "importLibrary": "SDK/SKJCamera/lib/x64/Release/SKJCamera.lib"
+      }
+    },
+    {
+      "dllTarget": "findWeldingLine.dll",
+      "architecture": "x64",
+      "importLibraryKind": "COFF import library",
+      "importSymbols": 4,
+      "namedExports": 4,
+      "matchedImportSymbols": 4,
+      "missingImportSymbols": 0,
+      "importSymbolSetSha256": "826851d8b9ddef52dde4658964bc40c146bf1662d481d46352aa354a5e1ffe1e",
+      "evidenceTool": "Microsoft dumpbin /headers and /exports",
+      "pairVerified": true,
+      "module": "findWeldingLine",
+      "sdkSemanticVersion": null,
+      "dllFileVersion": null,
+      "dll": "findWeldingLine/bin/findWeldingLine.dll",
+      "importLibrary": "findWeldingLine/lib/findWeldingLine.lib",
+      "sourceArtifacts": {
+        "dll": "SDK/PointCloudExtration/findWeldingLine_sdk_x64_Release_20260902_1742/bin/findWeldingLine.dll",
+        "importLibrary": "SDK/PointCloudExtration/findWeldingLine_sdk_x64_Release_20260902_1742/lib/findWeldingLine.lib"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "PointCloudExtration/bin/PointCloudExtration.dll",
+      "role": "dynamic-library",
+      "size": 376320,
+      "sha256": "63d0d2b147c8e1c5cb3804d62d16e62ac4483353fd2b6c195dbabc56892b0784",
+      "fileVersion": null
+    },
+    {
+      "path": "PointCloudExtration/lib/PointCloudExtration.lib",
+      "role": "import-library",
+      "size": 3502,
+      "sha256": "e48158bb491a4d68bb901a1b2f423f851f1231c3e255a27f9f80c96545df1025",
+      "fileVersion": null
+    },
+    {
+      "path": "SKJCamera/bin/SKJCamera.dll",
+      "role": "dynamic-library",
+      "size": 43520,
+      "sha256": "c21901ff762208ed06065c9dad1e5d3ca324533dbc7261decade419db84052d4",
+      "fileVersion": "1.2.0.0"
+    },
+    {
+      "path": "SKJCamera/lib/SKJCamera.lib",
+      "role": "import-library",
+      "size": 16794,
+      "sha256": "c568fbabb8e62c843fa085c65fe6842db5d06c9278d355314c824c188906b266",
+      "fileVersion": null
+    },
+    {
+      "path": "findWeldingLine/bin/findWeldingLine.dll",
+      "role": "dynamic-library",
+      "size": 328704,
+      "sha256": "925ac6bf19762f76cf249c96a0fe873abfa94151ac6636989c10759ce4a27432",
+      "fileVersion": null
+    },
+    {
+      "path": "findWeldingLine/lib/findWeldingLine.lib",
+      "role": "import-library",
+      "size": 3438,
+      "sha256": "3d21729455915a10ac3edd11acb5c5449d81b1cb2f3c5aea1881d599febc2c77",
+      "fileVersion": null
+    }
+  ]
+}
