@@ -1,9 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "channel": "neutral-online",
   "sourceCodeIncluded": false,
-  "businessModulesExtracted": false,
-  "distributionStage": "development-candidate",
-  "productReleaseApproved": false,
-  "authorization": "现有在线授权，Enforce"
+  "businessModulesExtracted": true,
+  "distributionStage": "module-release",
+  "authorization": "现有在线授权，Enforce",
+  "version": "2026.09.18.1800"
 }

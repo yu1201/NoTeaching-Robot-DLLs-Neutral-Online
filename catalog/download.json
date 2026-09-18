@@ -1,24 +1,32 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "channel": "neutral-online",
-  "distributionTag": "dev-20260917",
-  "stage": "development-candidate",
-  "companyReleaseApproved": false,
+  "version": "2026.09.18.1800",
+  "distributionTag": "full-dll-20260918",
   "assets": [
     {
-      "name": "CANDIDATE-neutral-online-2026.09.14.0945-windows-x64.zip",
-      "size": 141577376,
-      "sha256": "c6e5b10dd5bff7b1218ce653d11a19d798984250aa28f73372c8c4ddd8904d12"
+      "name": "FullDllRuntime-neutral-online-2026.09.18.1800.zip",
+      "size": 143859260,
+      "sha256": "6f33f7e320f41ccfec0b627b478c637ac224516f2454a395c52e686f92bf8ae4",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260918/FullDllRuntime-neutral-online-2026.09.18.1800.zip"
     },
     {
-      "name": "SDK-import-pairs-neutral-online-20260917-windows-x64.zip",
-      "size": 350659,
-      "sha256": "7b93f74947203295a6c2044a0d502214f26a0f905f7e1354771ea6835d8666fa"
+      "name": "FullDllSDK-neutral-online-20260918T122051Z-db2d7d21618a.zip",
+      "size": 7140802,
+      "sha256": "18403427d8eb421787f0d95b4758c4b8ce5449e21fa0dfe9b8fa61467ddf32f9",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260918/FullDllSDK-neutral-online-20260918T122051Z-db2d7d21618a.zip"
+    },
+    {
+      "name": "NoTeaching-Robot-Setup-v2026.09.18.1800.exe",
+      "size": 135662443,
+      "sha256": "b2f4f36c16ff4208187c3bd2f05dc3b26e6599e6cfbf369dbaa142738d0ee511",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260918/NoTeaching-Robot-Setup-v2026.09.18.1800.exe"
     },
     {
       "name": "SHA256SUMS.txt",
-      "size": 246,
-      "sha256": "53f178b85b13169329978c61d20c8442193182088b0b7d77806083128f89b689"
+      "size": 355,
+      "sha256": "b39961f51ce5aa704ed8d1cf63b1a6d0948067e6435d3f5597d5d90916b0c83c",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260918/SHA256SUMS.txt"
     }
   ]
 }
