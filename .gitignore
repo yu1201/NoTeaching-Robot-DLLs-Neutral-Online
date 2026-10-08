@@ -4,3 +4,5 @@
 !README.md
 !catalog/*.json
 /x64/
+# Local build caches, tests and archives; never publish
+/Local/

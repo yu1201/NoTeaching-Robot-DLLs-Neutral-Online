@@ -1,33 +1,33 @@
 {
   "schemaVersion": 2,
   "channel": "neutral-online",
-  "version": "2026.09.20.2035",
-  "distributionTag": "full-dll-20260920",
+  "version": "2026.10.08.1745",
+  "distributionTag": "full-dll-20261008",
   "completeInstaller": true,
   "assets": [
     {
-      "name": "FullDllRuntime-neutral-online-2026.09.20.2035.zip",
-      "size": 167928406,
-      "sha256": "10a1f9037e6ffad0c8394a7e3d210fcc8c303a551c02600e5e85a34c3769a3ee",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260920/FullDllRuntime-neutral-online-2026.09.20.2035.zip"
+      "name": "FullDllRuntime-neutral-online-2026.10.08.1745.zip",
+      "size": 173924800,
+      "sha256": "4585c10fb2d081e5c20d93c2d3d29d6ee98b9ae81b09ef339fccf3d39f7e5120",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20261008/FullDllRuntime-neutral-online-2026.10.08.1745.zip"
     },
     {
-      "name": "FullDllSDK-neutral-online-20260920T143755Z-f25bc511b618.zip",
-      "size": 7468821,
-      "sha256": "acfde2ae431d8a7cbbad3b1d9c7a50b94f15aed3f0c548a54a5a29155a39609a",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260920/FullDllSDK-neutral-online-20260920T143755Z-f25bc511b618.zip"
+      "name": "FullDllSDK-neutral-online-20261008T101434Z-48e778079e37.zip",
+      "size": 7953377,
+      "sha256": "f2c9076dfb4dc6ad8dba68a0142d98d48cd1acfff6bcce9d36b9256564f170ce",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20261008/FullDllSDK-neutral-online-20261008T101434Z-48e778079e37.zip"
     },
     {
-      "name": "NoTeaching-Robot-Setup-v2026.09.20.2035.exe",
-      "size": 150349417,
-      "sha256": "5ab0fe34fb5227cc6d7dbe58f131e503cf0e60e2232a80cd88ec7b5b56464865",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260920/NoTeaching-Robot-Setup-v2026.09.20.2035.exe"
+      "name": "NoTeaching-Robot-Setup-v2026.10.08.1745.exe",
+      "size": 150500609,
+      "sha256": "80e2d0ab1ce1dc107f005fe00ec5e3d0ad0b79514947d0298e4c2ef2ade77523",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20261008/NoTeaching-Robot-Setup-v2026.10.08.1745.exe"
     },
     {
       "name": "SHA256SUMS.txt",
       "size": 355,
-      "sha256": "67ecb413ad19a0f88e3eb2a37638d23a17b19c127d430069d79aabb8d0a3da7b",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20260920/SHA256SUMS.txt"
+      "sha256": "7d27fdda9a80d4bd80366f0904c07f9b03753450d5ad2a9bb155e1f689121ba4",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Neutral-Online/releases/download/full-dll-20261008/SHA256SUMS.txt"
     }
   ]
 }
